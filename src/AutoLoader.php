@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace FZ\ControllerCache;
+namespace Frowhy\ControllerCache;
 
 use Redis;
 use Swoft\Helper\ComposerJSON;

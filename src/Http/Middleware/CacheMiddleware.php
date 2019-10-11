@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace FZ\ControllerCache\Http\Middleware;
+namespace Frowhy\ControllerCache\Http\Middleware;
 
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;

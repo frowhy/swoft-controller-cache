@@ -1,5 +1,5 @@
 {
-  "name": "fz/controller-cache",
+  "name": "frowhy/controller-cache",
   "type": "library",
   "keywords": [],
   "description": "",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "FZ\\Cache\\": "src/"
+      "Frowhy\\Cache\\": "src/"
     }
   },
   "autoload-dev": {
