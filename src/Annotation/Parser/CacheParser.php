@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace FZ\ControllerCache\Annotation\Parser;
+namespace Frowhy\ControllerCache\Annotation\Parser;
 
 use ReflectionException;
 use Swoft\Annotation\Annotation\Mapping\AnnotationParser;

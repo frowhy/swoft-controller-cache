@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace FZ\ControllerCache\Annotation\Mapping;
+namespace Frowhy\ControllerCache\Annotation\Mapping;
 
 /**
  * Class Cache
