@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace Frowhy\ControllerCache\Annotation\Mapping;
+namespace Frowhy\SwoftControllerCache\Annotation\Mapping;
 
 /**
  * Class Cache

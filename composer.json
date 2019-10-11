@@ -1,5 +1,5 @@
 {
-  "name": "frowhy/controller-cache",
+  "name": "frowhy/swoft-controller-cache",
   "type": "library",
   "keywords": [],
   "description": "",
@@ -8,8 +8,8 @@
     "php": ">7.1",
     "ext-igbinary": "*",
     "ext-swoole": ">=4.3",
-    "swoft/component": "dev-master as 2.0",
-    "swoft/ext": "dev-master as 2.0"
+    "swoft/component": "~2.0.0",
+    "swoft/ext": "~2.0.0"
   },
   "require-dev": {
     "swoft/swoole-ide-helper": "dev-master",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Frowhy\\Cache\\": "src/"
+      "Frowhy\\SwoftControllerCache\\": "src/"
     }
   },
   "autoload-dev": {

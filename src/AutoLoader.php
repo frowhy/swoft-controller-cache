@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace Frowhy\ControllerCache;
+namespace Frowhy\SwoftControllerCache;
 
 use Redis;
 use Swoft\Helper\ComposerJSON;
